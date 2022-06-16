@@ -1,6 +1,7 @@
 # 관리자 입력정보 만들기
 
 관리자 로그인 화면
+
 ![image](https://user-images.githubusercontent.com/80745282/174044308-ebfdd42e-5fa4-4f6f-b63c-1e1961c3813b.png)
 
 
